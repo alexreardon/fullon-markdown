@@ -33,6 +33,10 @@ module.exports = validate({
                 loader: 'raw',
                 exclude: /node_modules/,
             },
+            {
+                test: /\.css$/,
+                loader: 'style-loader!css-loader',
+            },
         ],
     },
     plugins: [
