@@ -8,7 +8,7 @@ import { contentWidth, gutters } from './global-style';
 const renderer = new marked.Renderer();
 renderer.heading = (text, level) => {
     if (level !== 2) {
-        return text;
+        return `<h${level}>${text}</h${level}>`;
     }
     const slug = slugg(text);
 
