@@ -3,11 +3,15 @@ const validate = require('webpack-validator');
 const webpack = require('webpack');
 
 const isDebug = process.env.NODE_ENV !== 'production';
+const port = process.env.PORT || 8080;
 
 module.exports = validate({
+    devServer: {
+        port,
+    },
     entry: {
         app: [
-            'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port
+            `webpack-dev-server/client?http://0.0.0.0:${port}`, // WebpackDevServer host and port
             'webpack/hot/only-dev-server', // "only" prevents reload on syntax errors
             './src/entry',
         ],
