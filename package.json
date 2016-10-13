@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexreardon/fullon-markdown.git"
+    "url": "ssh://git@github.com:alexreardon/fullon-markdown.git"
   },
   "author": "Alex Reardon <alexreardon@gmail.com>",
   "license": "MIT",
