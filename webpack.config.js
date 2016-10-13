@@ -1,11 +1,16 @@
-const validate = require('webpack-validator');
 const path = require('path');
+const validate = require('webpack-validator');
+const webpack = require('webpack');
 
 const isDebug = process.env.NODE_ENV !== 'production';
 
 module.exports = validate({
     entry: {
-        issue: ['./src/entry'],
+        app: [
+            'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port
+            'webpack/hot/only-dev-server', // "only" prevents reload on syntax errors
+            './src/entry',
+        ],
     },
     devtool: isDebug ? 'cheap-module-eval-source-map' : undefined,
     output: {
@@ -25,4 +30,7 @@ module.exports = validate({
             },
         ],
     },
+    plugins: [
+        new webpack.HotModuleReplacementPlugin(),
+    ],
 });

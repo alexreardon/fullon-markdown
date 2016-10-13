@@ -31,12 +31,14 @@
     "eslint-plugin-import": "1.16.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
     "eslint-plugin-react": "6.4.1",
+    "react-hot-loader": "3.0.0-beta.5",
     "webpack": "1.13.2",
     "webpack-dev-server": "1.16.2",
     "webpack-validator": "2.2.9"
   },
   "dependencies": {
     "core-js": "2.4.1",
+    "markdown-it": "8.0.0",
     "react": "15.3.2",
     "react-dom": "15.3.2"
   }
