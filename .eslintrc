@@ -1,0 +1,60 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    // http://eslint.org/docs/rules/indent
+    // Enforce 4 space indent
+    "indent": [
+      "error",
+      4
+    ],
+    // http://eslint.org/docs/rules/semi
+    // Enforce semi-colons
+    "semi": [
+      "error",
+      "always"
+    ],
+    // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/extensions.md
+    // Enforce no usage of '.js' at the end of imports
+    "import/extensions": [
+      "error",
+      "never"
+    ],
+    // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-extraneous-dependencies.md
+    // Opt out of no extraneous dependencies, as storybook is a dev dependency commonly used as an import
+    "import/no-extraneous-dependencies": "off",
+    // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/prefer-default-export.md
+    // Opt out of preferring default exports, as we have patterns (container redux components)
+    // which makes use of named + default exports
+    "import/prefer-default-export": "off",
+    // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-filename-extension.md
+    // Opt out of '.jsx' file extensions, as all our '.js' files will run through the same transpilation
+    "react/jsx-filename-extension": "off",
+    // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-indent.md
+    // Enforce 4 space indent in 'jsx'
+    "react/jsx-indent": [
+      "error",
+      4
+    ],
+    // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md
+    // Opt out of preferring stateless functions for consistency of React components
+    "react/prefer-stateless-function": "off",
+    // http://eslint.org/docs/rules/no-multiple-empty-lines
+    // Disallow more than 1 empty lines
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "max": 1
+      }
+    ],
+    // http://eslint.org/docs/rules/padded-blocks
+    // Enforce no padding within blocks
+    "padded-blocks": [
+      "error",
+      "never"
+    ],
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "fullon-markdown",
+  "version": "0.0.1",
+  "description": "Fullon youth camp website",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production webpack-dev-server --config webpack.config.js",
+    "dev": "webpack-dev-server --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexreardon/fullon-markdown.git"
+  },
+  "author": "Alex Reardon <alexreardon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexreardon/fullon-markdown/issues"
+  },
+  "homepage": "https://github.com/alexreardon/fullon-markdown#readme",
+  "devDependencies": {
+    "babel-core": "6.17.0",
+    "babel-eslint": "7.0.0",
+    "babel-loader": "6.2.5",
+    "babel-plugin-transform-class-properties": "6.16.0",
+    "babel-plugin-transform-decorators-legacy": "1.3.4",
+    "babel-plugin-transform-object-rest-spread": "6.16.0",
+    "babel-preset-es2015": "6.16.0",
+    "babel-preset-react": "6.16.0",
+    "eslint": "3.7.1",
+    "eslint-config-airbnb": "12.0.0",
+    "eslint-plugin-import": "1.16.0",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-react": "6.4.1",
+    "webpack": "1.13.2",
+    "webpack-dev-server": "1.16.2",
+    "webpack-validator": "2.2.9"
+  },
+  "dependencies": {
+    "core-js": "2.4.1",
+    "react": "15.3.2",
+    "react-dom": "15.3.2"
+  }
+}
