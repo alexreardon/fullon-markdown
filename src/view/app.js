@@ -7,7 +7,7 @@ import slugg from 'slugg';
 import markdown from '../../details.md';
 import Details from './details';
 import Header from './header';
-import { colors } from './global-style';
+import { colors, gutters } from './global-style';
 
 const tokens = marked.lexer(markdown);
 const headings = tokens
@@ -27,9 +27,16 @@ const global = `
     }  
     h2 {
         text-transform: uppercase;
+        margin-top: ${gutters.large * 2}px;
+    }
+    h2 > a {
+        text-decoration: none;
     }
     h3 {
         color: ${colors.gold};
+    }
+    a {
+        color: ${colors.white}
     }
 `;
 
