@@ -2,7 +2,7 @@
 
 ### What is Full On?
 
-Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
+TEST Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
 It is for youth in high school. Full On is a Christian camp where the students will learn from the Bible about who
 Jesus is, what he has done, and what it means to follow him. It is also a week of *Full On* fun and activities, indoor and
 outdoors, in a loving community.
