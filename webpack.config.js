@@ -28,6 +28,11 @@ module.exports = validate({
                 },
                 exclude: /node_modules/,
             },
+            {
+                test: /\.md$/,
+                loader: 'raw',
+                exclude: /node_modules/,
+            },
         ],
     },
     plugins: [
