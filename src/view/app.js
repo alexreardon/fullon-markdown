@@ -3,6 +3,7 @@ import React from 'react';
 import injectStyles from 'react-jss';
 import Details from './details';
 import Header from './header';
+import TopBar from './top-bar';
 import { colors } from './global-style';
 
 // css defaults
@@ -34,6 +35,7 @@ const component = ({sheet: {classes}}) => (
         <style>
             {global}
         </style>
+        <TopBar />
         <Header />
         <Details />
         <footer>footer</footer>

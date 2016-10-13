@@ -37,6 +37,10 @@ module.exports = validate({
                 test: /\.css$/,
                 loader: 'style-loader!css-loader',
             },
+            {
+                test: /\.(?:svg|png|jpg)$/,
+                loader: 'url-loader?name=build/[name].[ext]&limit=10000',
+            },
         ],
     },
     plugins: [
