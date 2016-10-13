@@ -10,7 +10,11 @@ renderer.heading = (text, level) => {
     if (level !== 2) {
         return text;
     }
-    return `<h${level}><a href="#${slugg(text)}">${text}</a></h${level}>`;
+    const slug = slugg(text);
+
+    return `<h${level}>
+                <a href="#${slug}" name="${slug}">${text}</a>
+            </h${level}>`;
 };
 
 const html = marked(markdown, {renderer});

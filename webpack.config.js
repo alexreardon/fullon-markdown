@@ -31,7 +31,7 @@ const productionPlugins = [
 
 const devPlugins = [new webpack.HotModuleReplacementPlugin()];
 
-console.log('debug mode', isDebug);
+console.log('details', {isDebug, port});
 
 module.exports = validate({
     devServer: {
