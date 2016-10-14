@@ -4,7 +4,9 @@
   "description": "Fullon youth camp website",
   "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=production webpack-dev-server --config webpack.config.js",
+    "heroku-postbuild": "npm run build",
+    "build": "NODE_ENV=production webpack --config webpack.config.js",
+    "start": "node server.js",
     "dev": "webpack-dev-server --config webpack.config.js"
   },
   "engines": {

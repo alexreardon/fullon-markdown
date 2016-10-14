@@ -2,21 +2,41 @@ const path = require('path');
 const validate = require('webpack-validator');
 const webpack = require('webpack');
 
-const port = process.env.PORT || 8080;
+const isDebug = process.env.NODE_ENV === 'production';
+
+const appEntries = [
+    './src/entry',
+];
+
+const devEntries = [
+    'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port
+    'webpack/hot/only-dev-server', // "only" prevents reload on syntax errors
+];
+
+const devPlugins = [
+    new webpack.HotModuleReplacementPlugin(),
+];
+
+const prodPlugins = [
+    new webpack.optimize.UglifyJsPlugin({
+        compress: {
+            warnings: false,
+        },
+        output: {
+            comments: false,
+        },
+    }),
+    // let libraries know to run in production mode
+    new webpack.DefinePlugin({
+        'process.env.NODE_ENV': JSON.stringify('production'),
+    }),
+];
 
 module.exports = validate({
-    devServer: {
-        inline: true,
-        port
-    },
     entry: {
-        app: [
-            'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port
-            'webpack/hot/only-dev-server', // "only" prevents reload on syntax errors
-            './src/entry',
-        ],
+        app: isDebug ? devEntries.concat(appEntries) : appEntries,
     },
-    devtool: 'cheap-module-eval-source-map',
+    devtool: isDebug ? 'cheap-module-eval-source-map' : undefined,
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'build'),
@@ -47,7 +67,5 @@ module.exports = validate({
             },
         ],
     },
-    plugins: [
-        new webpack.HotModuleReplacementPlugin(),
-    ],
+    plugins: isDebug ? devPlugins : prodPlugins
 });
