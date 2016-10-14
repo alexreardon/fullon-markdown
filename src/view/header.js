@@ -3,16 +3,8 @@ import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
 import Modal from 'react-modal';
 import logo from './logo-dark.svg';
-import config from '../../config.json';
+import config from '../../config';
 import { button, gutters } from './global-style';
-
-const youtubeConfig = {
-    preload: true,
-    playerVars: {
-        // modestbranding: '1',
-        // showinfo: '0',
-    },
-};
 
 const modalStyles = {
     content: {
@@ -62,7 +54,6 @@ const style = {
 
 @injectStyles(style)
 class Header extends Component {
-
     state = {
         isModalOpen: false,
     };
@@ -76,7 +67,7 @@ class Header extends Component {
     openModal = () => {
         this.setState({
             isModalOpen: true,
-        })
+        });
     };
 
     render() {
