@@ -82,7 +82,7 @@ module.exports = validate({
             },
             {
                 test: /\.(?:svg|png|jpg)$/,
-                loader: 'url-loader?name=[name].[ext]&limit=1',
+                loader: 'url-loader?name=[name].[ext]&limit=10000',
             },
         ],
     },

@@ -5,6 +5,7 @@ import Details from './details';
 import Header from './header';
 import { colors, gutters } from './global-style';
 import Menu from './menu';
+import Media from './media';
 
 const global = `
     html {
@@ -65,6 +66,7 @@ const component = ({sheet: {classes}}) => (
         <Menu />
         <Header />
         <Details />
+        <Media />
     </div>
 );
 

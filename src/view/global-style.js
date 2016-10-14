@@ -18,3 +18,10 @@ export const button = {
 };
 
 export const contentWidth = 980;
+
+export const container = {
+    maxWidth: contentWidth,
+    margin: '0 auto',
+    padding: gutters.large * 2,
+};
+
