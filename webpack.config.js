@@ -2,10 +2,9 @@ const path = require('path');
 const validate = require('webpack-validator');
 const webpack = require('webpack');
 
-const isDebug = process.env.NODE_ENV === 'production';
+const isDebug = process.env.NODE_ENV !== 'production';
 
 console.log('isProduction:', !isDebug);
-console.log('env', process.env.NODE_ENV);
 
 const appEntries = [
     './src/entry',
