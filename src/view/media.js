@@ -19,7 +19,9 @@ const playerStyle = {
 
 export default injectSheet(style)(({sheet: {classes}}) => (
     <div className={classes.container}>
-        <h2>Media</h2>
+        <h2>
+            <a href="#media" name="media">Media</a>
+        </h2>
         {config.videos.map(video => (
             <div key={video.url}>
                 <h3 className={classes.title}>{video.title}</h3>

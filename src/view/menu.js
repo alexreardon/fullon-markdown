@@ -66,6 +66,7 @@ export default injectSheet(style)(({sheet: {classes}}) => (
             const slug = slugg(token.text);
             return <a className={classes.link} key={slug} href={`#${slug}`}>{token.text}</a>;
         })}
+        <a className={classes.link} href="#media">Media</a>
         <a className={classes.link} href="http://en.stphils.org.au/">St Phils home page</a>
     </MenuSlide>
 ));

@@ -1,5 +1,5 @@
 import 'normalize.css';
-import React from 'react';
+import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import config from '../../config';
 import Details from './details';
@@ -60,17 +60,32 @@ const style = {
     },
 };
 
-const component = ({sheet: {classes}}) => (
-    <div className={classes.container}>
-        <style>
-            {global}
-        </style>
-        <Menu />
-        <Header />
-        <Details />
-        <Media />
-        <Social />
-    </div>
-);
+@injectStyles(style)
+export default class App extends Component {
+    componentDidMount() {
+        // fix the fact that our hash routes do not
+        // work on startup because the page has not rendered yet
+        // not deterministic. should explicitly wait for *everything*
+        // to render at least once
+        setTimeout(() => {
+            window.location = window.location.href;
+        }, 200);
+    }
 
-export default injectStyles(style)(component);
+    render() {
+        const {sheet: {classes}} = this.props;
+
+        return (
+            <div className={classes.container}>
+                <style>
+                    {global}
+                </style>
+                <Menu />
+                <Header />
+                <Details />
+                <Media />
+                <Social />
+            </div>
+        );
+    }
+}
