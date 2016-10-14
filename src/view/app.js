@@ -60,8 +60,7 @@ const style = {
     },
 };
 
-@injectStyles(style)
-export default class App extends Component {
+export class App extends Component {
     componentDidMount() {
         // fix the fact that our hash routes do not
         // work on startup because the page has not rendered yet
@@ -89,3 +88,5 @@ export default class App extends Component {
         );
     }
 }
+
+export default injectStyles(style)(App);

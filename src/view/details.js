@@ -1,4 +1,4 @@
-import React, { PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react';
 import marked from 'marked';
 import injectSheet from 'react-jss';
 import slugg from 'slugg';
@@ -26,16 +26,16 @@ const style = {
     container,
 };
 
-const component = ({sheet: {classes}}) => (
-    <section className={classes.container}>
-        <div dangerouslySetInnerHTML={{__html: html}} />
-    </section>
-);
+export class Details extends Component {
+    render() {
+        const {sheet: {classes}} = this.props;
 
-component.propTypes = {
-    sheet: PropTypes.shape({
-        classes: PropTypes.object,
-    }),
-};
+        return (
+            <section className={classes.container}>
+                <div dangerouslySetInnerHTML={{__html: html}} />
+            </section>
+        );
+    }
+}
 
-export default injectSheet(style)(component);
+export default injectSheet(style)(Details);
