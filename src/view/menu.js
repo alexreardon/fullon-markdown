@@ -2,19 +2,12 @@ import 'normalize.css';
 import React from 'react';
 import menu from 'react-burger-menu';
 import marked from 'marked';
+import injectSheet from 'react-jss';
 import slugg from 'slugg';
 import markdown from '../../details.md';
 import { colors } from './global-style';
 
 const MenuSlide = menu.slide;
-
-const tokens = marked.lexer(markdown);
-const headings = tokens
-    .filter(token => token.type === 'heading' && token.depth === 2)
-    .map((token) => {
-        const slug = slugg(token.text);
-        return <a key={slug} href={`#${slug}`}>{token.text}</a>;
-    });
 
 const menuStyles = {
     bmBurgerButton: {
@@ -57,9 +50,22 @@ const menuStyles = {
     },
 };
 
-export default () => (
+const style = {
+    link: {
+        // textDecoration: 'none',
+    },
+};
+
+const tokens = marked.lexer(markdown);
+const headings = tokens
+    .filter(token => token.type === 'heading' && token.depth === 2);
+
+export default injectSheet(style)(({sheet: {classes}}) => (
     <MenuSlide right styles={menuStyles}>
-        {headings}
-        <a href="http://en.stphils.org.au/">St Phils home page</a>
+        {headings.map((token) => {
+            const slug = slugg(token.text);
+            return <a className={classes.link} key={slug} href={`#${slug}`}>{token.text}</a>;
+        })}
+        <a className={classes.link} href="http://en.stphils.org.au/">St Phils home page</a>
     </MenuSlide>
-);
+));

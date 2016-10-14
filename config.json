@@ -1,3 +1,13 @@
 {
-  "trailerUrl": "https://vimeo.com/187263015"
+  "trailerUrl": "https://vimeo.com/187263015",
+  "colors": {
+    "background": "rgb(35, 35, 38)",
+    "secondary": "rgb(255, 207, 82)",
+    "text": "rgb(255, 255, 255)",
+    "action": "rgb(0, 173, 239)"
+  },
+  "font": {
+    "url": "https://fonts.googleapis.com/css?family=Raleway:300,900",
+    "fontFamily": "'Raleway', sans-serif"
+  }
 }

@@ -20,7 +20,7 @@ const global = `
         text-decoration: none;
     }
     h3 {
-        color: ${colors.gold};
+        color: ${colors.secondary};
     }
     a {
         color: ${colors.text}

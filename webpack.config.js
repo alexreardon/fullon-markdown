@@ -1,6 +1,7 @@
 const path = require('path');
 const validate = require('webpack-validator');
 const webpack = require('webpack');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const isDebug = process.env.NODE_ENV !== 'production';
 
@@ -16,9 +17,16 @@ const devEntries = [
     'webpack/hot/only-dev-server', // "only" prevents reload on syntax errors
 ];
 
+const basePlugins = [
+    new HtmlWebpackPlugin({
+        template: 'fragment.html',
+        inject: true
+    }),
+];
+
 const devPlugins = [
     new webpack.HotModuleReplacementPlugin(),
-];
+].concat(basePlugins);
 
 const prodPlugins = [
     new webpack.optimize.UglifyJsPlugin({
@@ -33,7 +41,7 @@ const prodPlugins = [
     new webpack.DefinePlugin({
         'process.env.NODE_ENV': JSON.stringify('production'),
     }),
-];
+].concat(basePlugins);
 
 module.exports = validate({
     entry: {
@@ -42,8 +50,8 @@ module.exports = validate({
     devtool: isDebug ? 'cheap-module-eval-source-map' : undefined,
     output: {
         filename: 'bundle.js',
-        path: path.resolve(__dirname, 'build'),
-        publicPath: '/build/',
+        path: path.resolve(__dirname, 'assets'),
+        publicPath: '/assets/',
     },
     module: {
         loaders: [
@@ -69,7 +77,7 @@ module.exports = validate({
             },
             {
                 test: /\.(?:svg|png|jpg)$/,
-                loader: 'url-loader?name=build/[name].[ext]&limit=10000',
+                loader: 'url-loader?name=assets/[name].[ext]&limit=1',
             },
         ],
     },
