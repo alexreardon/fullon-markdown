@@ -66,9 +66,9 @@ export class App extends Component {
         // work on startup because the page has not rendered yet
         // not deterministic. should explicitly wait for *everything*
         // to render at least once
-        setTimeout(() => {
-            window.location = window.location.href;
-        }, 200);
+        // setTimeout(() => {
+        //     window.location = window.location.href;
+        // }, 200);
     }
 
     render() {
