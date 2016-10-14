@@ -9,8 +9,8 @@ const style = {
       // margin: '0 auto',
       display: 'flex',
       justifyContent: 'center',
-      paddingTop: gutters.large,
-      paddingBottom: gutters.large,
+      paddingTop: gutters.large * 4,
+      paddingBottom: gutters.large * 2,
   },
 };
 

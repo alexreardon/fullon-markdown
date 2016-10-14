@@ -22,6 +22,7 @@ export const contentWidth = 980;
 export const container = {
     maxWidth: contentWidth,
     margin: '0 auto',
-    padding: gutters.large * 2,
+    paddingLeft: gutters.large * 2,
+    paddingRight: gutters.large * 2,
 };
 

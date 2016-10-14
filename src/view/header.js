@@ -16,14 +16,11 @@ const youtubeConfig = {
 
 const modalStyles = {
     content: {
-        top: '50%',
-        left: '50%',
-        right: 'auto',
-        bottom: 'auto',
-        marginRight: '-50%',
-        transform: 'translate(-50%, -50%)',
         backgroundColor: 'black',
         border: 'none',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
     },
     overlay: {
         position: 'fixed',
@@ -100,6 +97,7 @@ class Header extends Component {
                         onEnded={this.closeModal}
                         width={800}
                         height={450}
+                        style={{maxWidth: '100vw'}}
                     />
                     <button
                         className={classes.closeModalButton}
@@ -112,7 +110,7 @@ class Header extends Component {
                     onClick={this.openModal}
                     className={classes.button}
                 >
-                    Watch Trailer
+                    Watch trailer
                 </button>
             </div>
         );
