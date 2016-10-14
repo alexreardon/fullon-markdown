@@ -5,6 +5,7 @@ const webpack = require('webpack');
 const isDebug = process.env.NODE_ENV === 'production';
 
 console.log('isProduction:', !isDebug);
+cosnole.log('env', process.env.NODE_ENV);
 
 const appEntries = [
     './src/entry',
