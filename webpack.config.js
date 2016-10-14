@@ -7,6 +7,7 @@ const isDebug = process.env.NODE_ENV !== 'production';
 console.log('isProduction:', !isDebug);
 
 const appEntries = [
+    './src/polyfills',
     './src/entry',
 ];
 
