@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
-import logo from './logo-dark.png';
+import logo from './logo-dark.svg';
 
 const youtubeConfig = {
     preload: true,
@@ -23,14 +23,8 @@ const style = {
     logo: {
         backgroundImage: `url(${logo})`,
         backgroundRepeat: 'no-repeat',
-        // width: 650,
-        // height: 200,
         backgroundSize: 'contain',
         textIndent: -100001,
-        // width: '100%',
-        // maxWidth: 650,
-        // height: 'auto',
-        // height: 200
         maxWidth: 650,
         width: '100%',
         height: 200,

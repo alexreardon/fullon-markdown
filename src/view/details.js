@@ -17,6 +17,9 @@ renderer.heading = (text, level) => {
             </h${level}>`;
 };
 
+const original = renderer.table;
+renderer.table = (header, body) => `<div class="responsive-table">${original(header, body)}</div>`;
+
 const html = marked(markdown, {renderer});
 
 const style = {

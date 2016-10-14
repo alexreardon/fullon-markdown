@@ -38,6 +38,29 @@ const global = `
     a {
         color: ${colors.white}
     }
+    /* responsive images */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    /* responsive tables */
+    table {
+        width: 100%;
+        max-width: 100%;
+        text-align: left;
+        border-collapse: collapse;
+        margin: ${gutters.large * 2}px 0px;
+    }
+    
+    table td, table th {
+        border-top: 1px solid ${colors.white};
+        padding: ${gutters.medium}px;
+    }
+    
+    .responsive-table {
+        width: 100%;
+        overflow-y: hidden;
+    }
 `;
 
 const menuStyles = {
@@ -58,10 +81,16 @@ const menuStyles = {
     bmCross: {
         background: colors.white,
     },
-    bmMenu: {
+    bmMenuWrap: {
         background: '#373a47',
+    },
+    bmMenu: {
+
         padding: '2.5em 1.5em 0',
         fontSize: '1.15em',
+
+        // stop overflow
+        height: 'auto',
     },
     bmMorphShape: {
         fill: '#373a47',
@@ -89,10 +118,10 @@ const component = ({sheet: {classes}}) => (
         </style>
         <Menu right styles={menuStyles}>
             {headings}
+            <a href="http://en.stphils.org.au/">St Phils home page</a>
         </Menu>
         <Header />
         <Details />
-        <footer>footer</footer>
     </div>
 );
 

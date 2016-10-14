@@ -2,7 +2,13 @@ const path = require('path');
 const validate = require('webpack-validator');
 const webpack = require('webpack');
 
+const port = process.env.PORT || 8080;
+
 module.exports = validate({
+    devServer: {
+        inline: true,
+        port
+    },
     entry: {
         app: [
             'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port

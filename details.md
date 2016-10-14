@@ -150,5 +150,4 @@ As Christians, we believe that all humans have rejected God and have decided to 
 
 God, acting with love and grace, sent His son Jesus into the world to live the perfect life that we could not, and take the punishment for our sin by his death on the cross so that we can return into a relationship with Him.
 
-
 This gives us two choices. We can either continue living the way we were, in rejection of God, and face the consequences for our actions, or we can turn and commit our lives to Jesus so that we can return to an eternal relationship with God. [More information](http://www.matthiasmedia.com.au/2wtl/2wtlonline.html)
