@@ -23,7 +23,7 @@ const global = `
         color: ${colors.gold};
     }
     a {
-        color: ${colors.white}
+        color: ${colors.text}
     }
     /* responsive images */
     img {
@@ -40,7 +40,7 @@ const global = `
     }
     
     table td, table th {
-        border-top: 1px solid ${colors.white};
+        border-top: 1px solid ${colors.text};
         padding: ${gutters.medium}px;
     }
     
@@ -52,8 +52,8 @@ const global = `
 
 const style = {
     container: {
-        backgroundColor: colors.black,
-        color: colors.white,
+        backgroundColor: colors.background,
+        color: colors.text,
     },
 };
 

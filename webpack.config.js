@@ -58,7 +58,10 @@ module.exports = validate({
             {
                 test: /\.md$/,
                 loader: 'raw',
-                exclude: /node_modules/,
+            },
+            {
+                test: /\.json$/,
+                loader: 'json',
             },
             {
                 test: /\.css$/,

@@ -25,14 +25,14 @@ const menuStyles = {
         top: '36px',
     },
     bmBurgerBars: {
-        background: colors.white,
+        background: colors.text,
     },
     bmCrossButton: {
         height: '24px',
         width: '24px',
     },
     bmCross: {
-        background: colors.white,
+        background: colors.text,
     },
     bmMenuWrap: {
         background: '#373a47',

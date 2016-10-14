@@ -1,13 +1,37 @@
 import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
+import Modal from 'react-modal';
 import logo from './logo-dark.svg';
+import config from '../../config.json';
+import { button, gutters } from './global-style';
 
 const youtubeConfig = {
     preload: true,
     playerVars: {
         // modestbranding: '1',
         // showinfo: '0',
+    },
+};
+
+const modalStyles = {
+    content: {
+        top: '50%',
+        left: '50%',
+        right: 'auto',
+        bottom: 'auto',
+        marginRight: '-50%',
+        transform: 'translate(-50%, -50%)',
+        backgroundColor: 'black',
+        border: 'none',
+    },
+    overlay: {
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+        backgroundColor: 'black',
     },
 };
 
@@ -29,47 +53,67 @@ const style = {
         width: '100%',
         height: 200,
     },
+    button,
+    closeModalButton: {
+        ...button,
+        display: 'block',
+        marginLeft: 'auto',
+        marginRight: 'auto',
+        marginTop: gutters.large * 2,
+    },
 };
 
 @injectStyles(style)
 class Header extends Component {
+
     state = {
-        isTrailerReady: false,
-        isTrailerPlaying: false,
+        isModalOpen: false,
     };
 
-    onTrailerReady = () => {
+    closeModal = () => {
         this.setState({
-            isTrailerReady: true,
+            isModalOpen: false,
         });
     };
 
-    toggleTrailer = () => {
+    openModal = () => {
         this.setState({
-            isTrailerPlaying: !this.state.isTrailerPlaying,
-        });
+            isModalOpen: true,
+        })
     };
 
     render() {
         const {sheet: {classes}} = this.props;
-        const {isTrailerReady, isTrailerPlaying} = this.state;
-
-        const button = isTrailerReady ? (
-            <button onClick={this.toggleTrailer}>
-                {isTrailerPlaying ? 'Stop' : 'Play trailer'}
-            </button>
-        ) : null;
+        const {isModalOpen} = this.state;
 
         return (
             <div className={classes.container}>
                 <h1 className={classes.logo}>Full on</h1>
-                <ReactPlayer
-                    url="https://www.youtube.com/watch?v=jMRAzUf8vcs"
-                    hidden={!isTrailerPlaying}
-                    playing={isTrailerPlaying}
-                    onReady={this.onTrailerReady}
-                />
-                {button}
+                <Modal
+                    isOpen={isModalOpen}
+                    onRequestClose={this.closeModal}
+                    style={modalStyles}
+                >
+                    <ReactPlayer
+                        url={config.trailerUrl}
+                        playing
+                        onEnded={this.closeModal}
+                        width={800}
+                        height={450}
+                    />
+                    <button
+                        className={classes.closeModalButton}
+                        onClick={this.closeModal}
+                    >
+                        close
+                    </button>
+                </Modal>
+                <button
+                    onClick={this.openModal}
+                    className={classes.button}
+                >
+                    Watch Trailer
+                </button>
             </div>
         );
     }
