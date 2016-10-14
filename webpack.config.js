@@ -4,6 +4,8 @@ const webpack = require('webpack');
 
 const isDebug = process.env.NODE_ENV === 'production';
 
+console.log('isProduction:', !isDebug);
+
 const appEntries = [
     './src/entry',
 ];
@@ -67,5 +69,5 @@ module.exports = validate({
             },
         ],
     },
-    plugins: isDebug ? devPlugins : prodPlugins
+    plugins: isDebug ? devPlugins : prodPlugins,
 });
