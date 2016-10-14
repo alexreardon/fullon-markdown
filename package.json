@@ -7,7 +7,7 @@
     "heroku-postbuild": "npm run build",
     "build": "NODE_ENV=production webpack --config webpack.config.js",
     "start": "node server.js",
-    "dev": "webpack-dev-server --config webpack.config.js"
+    "dev": "webpack-dev-server --content-base assets/ --config webpack.config.js"
   },
   "engines": {
     "node": "6.7.0"

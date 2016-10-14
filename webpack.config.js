@@ -20,13 +20,18 @@ const devEntries = [
 const basePlugins = [
     new HtmlWebpackPlugin({
         template: 'fragment.html',
-        inject: true
+        // putting the file in the assets bucket for production
+        // this avoids needing to add a gitignore for index.html in the root
+        // webpack with use an in memory version of index.html
+        // filename: isDebug ? 'index.html' : 'assets/index.html',
+        filename: 'index.html',
+        inject: true,
     }),
 ];
 
-const devPlugins = [
+const devPlugins = basePlugins.concat([
     new webpack.HotModuleReplacementPlugin(),
-].concat(basePlugins);
+]);
 
 const prodPlugins = [
     new webpack.optimize.UglifyJsPlugin({
@@ -51,7 +56,7 @@ module.exports = validate({
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'assets'),
-        publicPath: '/assets/',
+        publicPath: '/',
     },
     module: {
         loaders: [
@@ -77,7 +82,7 @@ module.exports = validate({
             },
             {
                 test: /\.(?:svg|png|jpg)$/,
-                loader: 'url-loader?name=assets/[name].[ext]&limit=1',
+                loader: 'url-loader?name=[name].[ext]&limit=1',
             },
         ],
     },
