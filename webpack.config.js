@@ -19,11 +19,10 @@ const devEntries = [
 
 const basePlugins = [
     new HtmlWebpackPlugin({
-        template: 'fragment.html',
+        template: 'fragment.js',
         // putting the file in the assets bucket for production
         // this avoids needing to add a gitignore for index.html in the root
         // webpack with use an in memory version of index.html
-        // filename: isDebug ? 'index.html' : 'assets/index.html',
         filename: 'index.html',
         inject: true,
     }),

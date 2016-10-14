@@ -1,6 +1,7 @@
 import 'normalize.css';
 import React from 'react';
 import injectStyles from 'react-jss';
+import config from '../../config';
 import Details from './details';
 import Header from './header';
 import { colors, gutters } from './global-style';
@@ -11,7 +12,7 @@ import Social from './social';
 const global = `
     html {
         line-height: 1.5;
-        font-family: 'Raleway', sans-serif;
+        font-family: ${config.font.fontFamily};
         font-size: 16px;
     }  
     h2 {
