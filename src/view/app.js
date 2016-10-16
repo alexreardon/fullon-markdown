@@ -64,11 +64,7 @@ export class App extends Component {
     componentDidMount() {
         // fix the fact that our hash routes do not
         // work on startup because the page has not rendered yet
-        // not deterministic. should explicitly wait for *everything*
-        // to render at least once
-        // setTimeout(() => {
-        //     window.location = window.location.href;
-        // }, 200);
+        window.history.replaceState({}, '', '');
     }
 
     render() {

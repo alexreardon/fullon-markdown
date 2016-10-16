@@ -51,7 +51,7 @@ module.exports = validate({
     entry: {
         app: isDebug ? devEntries.concat(appEntries) : appEntries,
     },
-    devtool: isDebug ? 'cheap-module-eval-source-map' : undefined,
+    devtool: isDebug ? 'cheap-module-source-map' : undefined,
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'assets'),
