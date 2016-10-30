@@ -8,7 +8,7 @@ The website is controlled by two files:
 1. `details.md`
 2. `config.json`
 
-### `details.md`
+## `details.md`
 This file controls the **content** for the site. 
 
 It is written in a format known as [markdown](https://guides.github.com/features/mastering-markdown/). It is a human readable format in which you can both write content and describe its structure (headings, lists, italics and so on). 
@@ -22,7 +22,7 @@ Here are some guides to using **markdown**:
 
 The site supports [github flavoured markdown](https://guides.github.com/features/mastering-markdown/) which is an extension of markdown and allows some more advanced formatting options.
 
-## `config.json`
+### `config.json`
 
 This files controls **how the site looks and behaves**
 
@@ -34,7 +34,7 @@ It includes details such as:
 - media urls
 - social media sharing information
 
-## Updating `details.md` or `config.json`
+### Updating `details.md` or `config.json`
 
 1. create a free account with [GitHub](http://github.com)
 2. navigate to the file you want to updated
