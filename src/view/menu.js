@@ -28,7 +28,7 @@ const menuStyles = {
         background: colors.text,
     },
     bmMenuWrap: {
-        background: '#373a47',
+        background: '#ffffff',
     },
     bmMenu: {
 
@@ -39,7 +39,7 @@ const menuStyles = {
         height: 'auto',
     },
     bmMorphShape: {
-        fill: '#373a47',
+        fill: '#ffffff',
     },
     bmItemList: {
         color: '#b8b7ad',
