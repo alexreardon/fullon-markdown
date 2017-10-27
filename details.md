@@ -1,23 +1,23 @@
-## About
+## ABOUT
 
-### What is FULL ON?
+### WHAT IS FULL ON?
 
 FULL ON is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
 It is for youth in year 6-12 in 2017. FULL ON is a Christian camp where the students will learn from the Bible about who
 Jesus is, what he has done, and what it means to follow him. It is also a week of *full on* fun and activities, indoor and
 outdoors, in a loving community.
 
-### When is it?
+### WHEN IS IT?
 
 FULL ON will take place on 2nd - 7th January 2018.
 
-### Registrations
+### REGISTRATIONS
 
 Registrations open on October 28, 2017.
 
 Registrations close on 19th December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
 
-## What will we do?
+## WHAT WILL WE DO?
 
 At camp you will experience the following FULL ON activities:
 
@@ -34,37 +34,37 @@ At camp you will experience the following FULL ON activities:
 - Junior and Senior Days Out!
 - **Plus much, much more!**
 
-### Where will camp be?
+### WHERE WILL CAMP BE?
 
 ![Pork hacking](https://static1.squarespace.com/static/56e6167262cd94987f77cdb2/57215b5d2eeb81e76d84e40d/5770b2563e00bed84f10b382/1467003494593/_CAL3925.jpg?format=600w)
 
 The picturesque [Anglican Youthworks Conference Centres at Port Hacking](http://www.youthworkscentres.net/port-hacking), in the Royal National Park.
 
-### Travelling to and from Camp
+### TRAVELLING TO AND FROM CAMP
 
 We will be traveling to and from camp by coach. You will need to meet at [St Philip’s Anglican Church Eastwood](http://en.stphils.org.au/) (cnr Shaftsbury Rd and Rutledge St, Eastwood). We leave on 2nd of January at 10.00 am. Please arrive no later than **9.15 am** to have your gear packed into our coaches.  We will arrive at camp around **11.30 am**.
 
 We arrive back at [St Philip’s Anglican Church Eastwood](http://en.stphils.org.au/) on the 7th of January at around **3.00 pm**. We will be leaving camp by **1.30 pm**.  Please contact us (see [Contact](/#contact)) if there is any reason you need to travel separately to or from camp.
 
-## Pricing
+## PRICING
 
-### Camp Fees
+### CAMP FEES
 
 The camp fees are $475 per camper. There is an early bird rate of $450 available up until the 30th of November. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
 
-### Payment methods
+### PAYMENT METHODS
 
-#### Credit card
+#### CREDIT CARD
 
 Our third party booking system supports online payment using VISA, MasterCard and AMEX credit cards.
 
-#### Need assistance?
+#### NEED ASSISTANCE?
 
 We do not want to see money hinder you from coming; learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
 
-## What to bring?
+## WHAT TO BRING?
 
-### General
+### GENERAL
 
 - Beach towel
 - Bible and Pen *(not optional)*
@@ -85,27 +85,27 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 - Thongs or sandals
 - Torch
 
-### Night time
+### NIGHT TIME
 
 - Pillowslip (Pillows and blankets are provided.)
 - Sleeping bag and or linen
 - PJ’s
 
-### Hygiene *(extremely not optional)*
+### HYGIENE *(extremely not optional)*
 
 - Toiletries (soap, shampoo, toothbrush, toothpaste, deodorant and so on)
 - Bath towel and Pool Towel
 
-### Other (optional)
+### OTHER (optional)
 
 - Costume for the final night
 
-### Seniors Only
+### SENIORS ONLY
 
 - DVDs (only for Senior movie night)
 - Wetsuit (for boating)
 
-### Don’t Bring *(these will be taken off you)*
+### DON’T BRING *(these will be taken off you)*
 
 - Any illegal substances for people under 18 years of age.
 - Valuables (any expensive jewellery and large amounts of money)
@@ -113,22 +113,22 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 - Potential weapons (pocket knives, orange guns etc.)
 - Pets
 
-## Contact
+## CONTACT
 
-### Before camp
+### BEFORE CAMP
 
 For questions about camp and registrations contact [Jason Smith](http://en.stphils.org.au/about-us/staff-profiles/).
 
 - Phone: [9874 1610](tel:98741610)
 - Email: [jason@stphils.org.au](mailto:jason@stphils.org.au)
 
-### During camp
+### DURING CAMP
 
 Leaders will have phones and there is a public phone at camp so campers can contact home if needed. Incoming calls should only be made in the case of an **emergency**.
 
 - Phone: [8525 3100](tel:85253100)
 
-## Statement of faith
+## STATEMENT OF FAITH
 
 Interested in our theology? We are! Feel free to contact us if you have any concerns or questions.
 
