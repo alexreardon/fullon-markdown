@@ -1,14 +1,14 @@
 {
   "trailerUrl": "https://vimeo.com/187263015",
   "colors": {
-    "background": "rgb(35, 35, 38)",
-    "secondary": "rgb(255, 207, 82)",
-    "text": "rgb(255, 255, 255)",
-    "action": "rgb(0, 173, 239)"
+    "background": "rgb(248, 246, 245)",
+    "secondary": "rgb(0, 0, 0)",
+    "text": "rgb(0, 0, 0)",
+    "action": "rgb(255, 90, 70)"
   },
   "font": {
-    "url": "https://fonts.googleapis.com/css?family=Raleway:300,900",
-    "fontFamily": "'Raleway', sans-serif"
+    "url": "https://fonts.googleapis.com/css?family=Inconsolata:400,700",
+    "fontFamily": "'Inconsolata', monospace"
   },
   "facebook": {
     "image": "https://static1.squarespace.com/static/56e6167262cd94987f77cdb2/t/578c73b5b8a79bbf14e3fd96/1468977118680/?format=2500w"
