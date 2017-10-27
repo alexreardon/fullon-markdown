@@ -13,7 +13,7 @@ FULL ON will take place on 2nd - 7th January 2018.
 
 ### REGISTRATIONS
 
-Registrations open on October 28, 2017.
+[Register online now!](https://stphilseastwood.elvanto.com.au/form/ed421c86-9e0e-4ef5-b963-395f74507271)
 
 Registrations close on 19th December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
 
