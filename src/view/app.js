@@ -16,7 +16,6 @@ const global = `
         font-size: 16px;
     }  
     h2 {
-        text-transform: uppercase;
         margin-top: ${gutters.large * 2}px;
     }
     h2 > a {
