@@ -94,14 +94,14 @@ class Header extends Component {
                         className={classes.closeModalButton}
                         onClick={this.closeModal}
                     >
-                        close
+                        Close Video
                     </button>
                 </Modal>
                 <button
                     onClick={this.openModal}
                     className={classes.button}
                 >
-                    Watch trailer
+                    What is FULL ON? Video
                 </button>
             </div>
         );
