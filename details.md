@@ -39,7 +39,7 @@ The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/
 
 ### Travelling to and from camp
 
-We will be traveling to camp by trainand from camp by coach and returning to camp via coach (both legs of the journey will have a team of leaders supervising). More specific travel arrangements will be forwarded to campers and parents prior to camp. Please [contact](/#contact) us if there is any reason you need to travel separately to or from camp.
+We will be travelling to camp by train and returning from camp via coach. Travel will be supervised by leaders on both parts of the journey. More specific travel arragnements will be forwarded to campers and parents closer to camp. Please [contact](/#contact) us if there is any reason you need to travel separately to or from camp.
 
 ## Pricing
 
