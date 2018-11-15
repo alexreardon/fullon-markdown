@@ -1,4 +1,4 @@
-## Resgistraitions
+## Registrations
 
 [**Register online now!**](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
 
