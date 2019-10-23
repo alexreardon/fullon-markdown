@@ -17,6 +17,7 @@ const global = `
     }  
     h2 {
         margin-top: ${gutters.large * 2}px;
+        font-size: 32px;
     }
     h2 > a {
         text-decoration: none;
