@@ -1,10 +1,10 @@
 {
   "trailerUrl": "https://vimeo.com/295723445",
   "colors": {
-    "background": "rgb(248, 246, 245)",
-    "secondary": "rgb(255, 144, 0)",
-    "text": "rgb(0, 0, 0)",
-    "action": "rgb(255, 90, 70)"
+    "background": "#FFFFFF",
+    "secondary": "#000000",
+    "text": "#000000",
+    "action": "#00FFFF"
   },
   "font": {
     "url": "https://fonts.googleapis.com/css?family=DM+Sans",
