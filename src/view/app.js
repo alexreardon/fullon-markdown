@@ -6,7 +6,6 @@ import Details from './details';
 import Header from './header';
 import { colors, gutters } from './global-style';
 import Menu from './menu';
-import Media from './media';
 import Social from './social';
 
 const global = `
@@ -82,7 +81,6 @@ export class App extends Component {
                 <Menu />
                 <Header />
                 <Details />
-                <Media />
                 <Social />
             </div>
         );
