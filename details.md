@@ -6,20 +6,20 @@ Registrations close on 23th December and early bird discount closes on 30th Nove
 
 ## About
 
-### What is FULL ON?
+### What is Full On?
 
-FULL ON is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
-It is for youth who will be in Year 6-12 in 2019 & graduating Year 12s of 2018. FULL ON is a Christian camp where the students will learn from the Bible about who
+Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
+It is for youth who will be in Year 6-12 in 2019 & graduating Year 12s of 2018. Full On is a Christian camp where the students will learn from the Bible about who
 Jesus is, what he has done, and what it means to follow him. It is also a week of *full on* fun and activities, indoor and
 outdoors, in a loving community.
 
 ### When is it?
 
-FULL ON will take place on 21st - 26th January 2019.
+Full On will take place on 21st - 26th January 2019.
 
 ## What will we do?
 
-At camp you will experience the following FULL ON activities:
+At camp you will experience the following Full On activities:
 
 - Bible Talks and Studies
 - Music and Singing
@@ -113,7 +113,7 @@ For questions about camp and registrations contact [Jason Smith](http://en.stphi
 
 ### During Camp
 
-Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our FULL ON leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
+Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our Full On leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
 
 ## Statement of Faith
 
