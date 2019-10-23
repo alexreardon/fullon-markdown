@@ -1,4 +1,5 @@
 import config from '../../config';
+import { inherits } from 'util';
 
 export const gutters = {
     medium: 10,
@@ -12,7 +13,6 @@ export const colors = {
 export const button = {
     padding: `${gutters.medium}px ${gutters.large}px`,
     border: 'none',
-    borderRadius: 4,
     backgroundColor: colors.action,
     color: colors.text,
 };
@@ -25,4 +25,3 @@ export const container = {
     paddingLeft: gutters.large * 2,
     paddingRight: gutters.large * 2,
 };
-

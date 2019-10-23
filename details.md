@@ -6,20 +6,20 @@ Registrations close on 23th December and early bird discount closes on 30th Nove
 
 ## About
 
-### What is FULL ON?
+### What is Full On?
 
-FULL ON is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
-It is for youth who will be in Year 6-12 in 2019 & graduating Year 12s of 2018. FULL ON is a Christian camp where the students will learn from the Bible about who
-Jesus is, what he has done, and what it means to follow him. It is also a week of *full on* fun and activities, indoor and
+Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
+It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who
+Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and
 outdoors, in a loving community.
 
 ### When is it?
 
-FULL ON will take place on 21st - 26th January 2019.
+Full On will take place on 20st - 25th January 2020.
 
 ## What will we do?
 
-At camp you will experience the following FULL ON activities:
+At camp you will experience the following Full On activities:
 
 - Bible Talks and Studies
 - Music and Singing
@@ -33,9 +33,9 @@ At camp you will experience the following FULL ON activities:
 
 ### Where will camp be?
 
-![Blue Gum Lodge](https://lh4.googleusercontent.com/BrCVWyM7ENYCAcusiGpXYE5V7Hpg9nhkIkZvqt83qYGDPpNq-W-254i4ptltnvrCgG3tIp_6_4tNATKvF9qzIKjBHk4O5whjfsvIqEJdWiaJmIpzQAMHuk7a3PFXSdGF384_UhsB)
+![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67346325-1057eb00-f58a-11e9-9bf5-61dd6a923db6.jpg)
 
-The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/bluegum-lodge/), in the Blue Mountains.
+The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/blue-gum-lodge), in the Blue Mountains.
 
 ### Travelling to and from camp
 
@@ -45,7 +45,7 @@ We will be travelling to camp by train and returning from camp via coach. Travel
 
 ### Camp Fees
 
-The camp fees are $450 per camper. There is an early bird rate of $425 available up until the 30th of November. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
+The camp fees are $450 per camper. There is an early bird rate of $425 available up until the 30th of November. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
 
 ### Payment Methods
 
@@ -55,14 +55,14 @@ Our third party booking system supports online payment using VISA, MasterCard an
 
 #### Need Assistance?
 
-We do not want to see money hinder you from coming; learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
+We do not want to see money hinder you from coming, learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
 
 ## What to bring?
 
 ### General
 
 - Beach towel
-- Bible and Pen *(not optional)*
+- Bible and Pen
 - Hat
 - Insect repellent
 - Long pants
@@ -81,11 +81,11 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 
 ### Night Time
 
-- Pillowslip (Pillows and blankets are provided.)
+- Pillowslip (pillows and blankets are provided)
 - Sleeping bag and or linen
 - PJ’s
 
-### Hygiene *(extremely not optional)*
+### Hygiene
 
 - Toiletries (soap, shampoo, toothbrush, toothpaste, deodorant and so on)
 - Bath towel and Pool Towel
@@ -94,7 +94,7 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 
 - Costume for the final night
 
-### Don't Bring *(these will be taken off you)*
+### Don't Bring
 
 - Any illegal substances for people under 18 years of age.
 - Valuables (any expensive jewellery and large amounts of money)
@@ -113,7 +113,7 @@ For questions about camp and registrations contact [Jason Smith](http://en.stphi
 
 ### During Camp
 
-Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our FULL ON leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
+Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our Full On leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
 
 ## Statement of Faith
 

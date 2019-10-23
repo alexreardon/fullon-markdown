@@ -18,7 +18,7 @@ const menuStyles = {
         top: '36px',
     },
     bmBurgerBars: {
-        background: colors.text,
+        background: colors.action,
     },
     bmCrossButton: {
         height: '24px',

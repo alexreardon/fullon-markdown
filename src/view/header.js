@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
 import Modal from 'react-modal';
-import logo from './logo-dark.svg';
+import logo from '../img/fullon-logo-header_1200x546.jpg';
 import config from '../../config';
-import { button, gutters } from './global-style';
+import { button, gutters, contentWidth } from './global-style';
 
 const modalStyles = {
     content: {
@@ -26,7 +26,6 @@ const modalStyles = {
 
 const style = {
     container: {
-        minHeight: '100vh',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
@@ -34,13 +33,10 @@ const style = {
         backgroundSize: 'contain',
     },
     logo: {
-        backgroundImage: `url(${logo})`,
-        backgroundRepeat: 'no-repeat',
-        backgroundSize: 'contain',
-        textIndent: -100001,
-        maxWidth: 650,
+        maxWidth: contentWidth,
         width: '100%',
-        height: 200,
+        marginBottom: gutters.medium,
+        marginTop: 0,
     },
     button,
     closeModalButton: {
@@ -76,7 +72,9 @@ class Header extends Component {
 
         return (
             <div className={classes.container}>
-                <h1 className={classes.logo}>Full on</h1>
+                <h1 className={classes.logo}>
+                    <img src={logo} alt='Full On 2020 Youth Camp'/>
+                </h1>
                 <Modal
                     isOpen={isModalOpen}
                     onRequestClose={this.closeModal}
@@ -101,7 +99,7 @@ class Header extends Component {
                     onClick={this.openModal}
                     className={classes.button}
                 >
-                    What is FULL ON? Video
+                    What is Full On? (Video)
                 </button>
             </div>
         );

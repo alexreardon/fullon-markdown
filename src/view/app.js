@@ -6,7 +6,6 @@ import Details from './details';
 import Header from './header';
 import { colors, gutters } from './global-style';
 import Menu from './menu';
-import Media from './media';
 import Social from './social';
 
 const global = `
@@ -17,6 +16,7 @@ const global = `
     }  
     h2 {
         margin-top: ${gutters.large * 2}px;
+        font-size: 32px;
     }
     h2 > a {
         text-decoration: none;
@@ -50,6 +50,10 @@ const global = `
         width: 100%;
         overflow-y: hidden;
     }
+
+    input, textarea, button {
+        font-family: inherit
+    }
 `;
 
 const style = {
@@ -77,7 +81,6 @@ export class App extends Component {
                 <Menu />
                 <Header />
                 <Details />
-                <Media />
                 <Social />
             </div>
         );

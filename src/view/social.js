@@ -1,14 +1,14 @@
 import React from 'react';
-import FacebookProvider, { Like } from 'react-facebook';
 import injectSheet from 'react-jss';
+import instagram from '../img/instagram.svg';
+import facebook from '../img/facebook.svg';
 import { gutters } from './global-style';
 
 const style = {
   container: {
-      // width: 200,
-      // margin: '0 auto',
       display: 'flex',
-      justifyContent: 'center',
+      flexDirection: 'column',
+      alignItems: 'center',
       paddingTop: gutters.large * 4,
       paddingBottom: gutters.large * 2,
   },
@@ -16,23 +16,29 @@ const style = {
 
 export default injectSheet(style)(({sheet: {classes}}) => (
     <div className={classes.container}>
-        <FacebookProvider appID="233565556748329">
-            <Like
-                href="http://fullon.stphils.org.au"
-                size="large"
-                layout="button_count"
-                share
+        <a href="https://instagram.com/stphilseastwoodyouth">
+            <img 
+                src={instagram} 
+                alt="Instagram Logo"
+                style={{
+                    height: '20px',
+                    marginRight: gutters.medium,
+                    verticalAlign: '-4px'
+                }}
             />
-        </FacebookProvider>
+            StPhilsEastwoodYouth
+        </a>
+        <a href="https://facebook.com/youthateastwood" style={{marginTop: gutters.medium}}>
+            <img 
+                src={facebook} 
+                alt="Facebook Logo"
+                style={{
+                    height: '20px',
+                    marginRight: gutters.medium,
+                    verticalAlign: '-4px'
+                }}
+            />
+            YouthAtEastwood
+        </a>
     </div>
 ));
-
-// <div id="fb-root"></div>
-// <script>(function(d, s, id) {
-//     var js, fjs = d.getElementsByTagName(s)[0];
-//     if (d.getElementById(id)) return;
-//     js = d.createElement(s); js.id = id;
-//     js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=233565556748329";
-//     fjs.parentNode.insertBefore(js, fjs);
-// }(document, 'script', 'facebook-jssdk'));</script>
-// <div class="fb-like" data-href="http://fullon.stphils.org.au" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
