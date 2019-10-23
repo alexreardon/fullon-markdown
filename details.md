@@ -9,8 +9,8 @@ Registrations close on 23th December and early bird discount closes on 30th Nove
 ### What is Full On?
 
 Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
-It is for youth who will be in Year 6-12 in 2020 & graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who
-Jesus is, what he has done, and what it means to follow him. It is also a week of *full on* fun and activities, indoor and
+It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who
+Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and
 outdoors, in a loving community.
 
 ### When is it?
@@ -45,7 +45,7 @@ We will be travelling to camp by train and returning from camp via coach. Travel
 
 ### Camp Fees
 
-The camp fees are $450 per camper. There is an early bird rate of $425 available up until the 30th of November. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
+The camp fees are $450 per camper. There is an early bird rate of $425 available up until the 30th of November. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
 
 ### Payment Methods
 
@@ -55,14 +55,14 @@ Our third party booking system supports online payment using VISA, MasterCard an
 
 #### Need Assistance?
 
-We do not want to see money hinder you from coming; learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to Al - al@stphils.org.au, which indicates the amount you are able to pay, and subsidies will be organised.
+We do not want to see money hinder you from coming, learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
 
 ## What to bring?
 
 ### General
 
 - Beach towel
-- Bible and Pen *(not optional)*
+- Bible and Pen
 - Hat
 - Insect repellent
 - Long pants
@@ -81,11 +81,11 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 
 ### Night Time
 
-- Pillowslip (Pillows and blankets are provided.)
+- Pillowslip (pillows and blankets are provided)
 - Sleeping bag and or linen
 - PJ’s
 
-### Hygiene *(extremely not optional)*
+### Hygiene
 
 - Toiletries (soap, shampoo, toothbrush, toothpaste, deodorant and so on)
 - Bath towel and Pool Towel
@@ -94,7 +94,7 @@ We do not want to see money hinder you from coming; learning about Jesus and hav
 
 - Costume for the final night
 
-### Don't Bring *(these will be taken off you)*
+### Don't Bring
 
 - Any illegal substances for people under 18 years of age.
 - Valuables (any expensive jewellery and large amounts of money)
