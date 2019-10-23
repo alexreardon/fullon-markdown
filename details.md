@@ -35,7 +35,7 @@ At camp you will experience the following Full On activities:
 
 ![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67346325-1057eb00-f58a-11e9-9bf5-61dd6a923db6.jpg)
 
-The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/bluegum-lodge/), in the Blue Mountains.
+The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/blue-gum-lodge), in the Blue Mountains.
 
 ### Travelling to and from camp
 
