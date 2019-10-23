@@ -51,6 +51,10 @@ const global = `
         width: 100%;
         overflow-y: hidden;
     }
+
+    input, textarea, button {
+        font-family: inherit
+    }
 `;
 
 const style = {
