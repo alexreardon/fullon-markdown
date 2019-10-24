@@ -13,6 +13,8 @@ It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019
 
 This year the theme for camp is ‘Pioneers’. We will be exploring the book of Acts, and seeing how to the ends of the Earth – Jesus changes everything. In Acts we see Jesus change individual’s lives and change communities as a result of the changed mission of his followers – to bring his good news to the ends of the Earth.
 
+![Pioneers Painting](https://user-images.githubusercontent.com/48076776/67523224-f210fd00-f6f9-11e9-85e8-6abaad21b8de.jpg)
+
 ### When is it?
 
 Full On will take place on 20th - 25th January 2020, the Monday-Saturday of the last week of the Summer school holidays.
