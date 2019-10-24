@@ -2,7 +2,7 @@
 
 [**Register online now!**](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
 
-Registrations close on 23th December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
+Registrations close on 23rd December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
 
 ## About
 
@@ -13,9 +13,11 @@ It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019
 Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and
 outdoors, in a loving community.
 
+This year the theme for camp is ‘Pioneers’. We will be exploring the book of Acts, and seeing how to the ends of the Earth – Jesus changes everything. In Acts we see Jesus change individual’s lives and change communities as a result of the changed mission of his followers – to bring his good news to the ends of the Earth.
+
 ### When is it?
 
-Full On will take place on 20st - 25th January 2020.
+Full On will take place on 20th - 25th January 2020, the Monday-Saturday of the last week of the Summer school holidays
 
 ## What will we do?
 
@@ -28,7 +30,6 @@ At camp you will experience the following Full On activities:
 - Massive-scale Night-time Wide Game
 - Swimming and Sports
 - Archery and Indoor Climbing
-- Day out at Cables Water Park!!
 - **Plus much, much more!**
 
 ### Where will camp be?
@@ -92,7 +93,7 @@ We do not want to see money hinder you from coming, learning about Jesus and hav
 
 ### Other (optional)
 
-- Costume for the final night
+- Costume for the final night (pioneers themed!)
 
 ### Don't Bring
 
