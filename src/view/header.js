@@ -6,6 +6,7 @@ import headerImage from '../img/header-image_860x391.jpg';
 import logo from '../img/full-on-2020-logo.svg'
 import config from '../../config';
 import { button, gutters, contentWidth } from './global-style';
+import { relative } from 'path';
 
 const modalStyles = {
     content: {
@@ -34,6 +35,7 @@ const style = {
         backgroundSize: 'contain',
     },
     logo: {
+        position: 'relative',
         maxWidth: contentWidth,
         width: '100%',
         marginBottom: gutters.medium,
@@ -74,23 +76,24 @@ class Header extends Component {
 
         return (
             <div className={classes.container}>
-                <h1 className={classes.logo}>
-                    <img 
-                        src={logo} 
-                        style={{
-                            position: 'absolute',
-                            transform: 'scale(0.5)'
-                        }}
-                    />
+                <div className={classes.logo}>
                     <img
                         src={headerImage} 
                         alt='Full On 2020 Youth Camp'
                         style={{
                             filter: 'blur(3px)',
-                            transform: 'scale(1.1)'
+                            transform: 'scale(1.1)',
                         }}
                     />
-                </h1>
+                    <img 
+                        src={logo} 
+                        style={{
+                            position: 'absolute',
+                            top: '0px',
+                            left: '0px',
+                        }}
+                    />
+                </div>
                 <Modal
                     isOpen={isModalOpen}
                     onRequestClose={this.closeModal}
