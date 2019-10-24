@@ -106,7 +106,7 @@ We do not want to see money hinder you from coming, learning about Jesus and hav
 
 ### Before Camp
 
-For questions about camp and registrations contact [Jason Smith](http://en.stphils.org.au/about-us/staff-profiles/) or [Al James](http://en.stphils.org.au/about-us/staff-profiles/).
+For questions about camp and registrations contact [Jason Smith](http://stphils.org.au/staff-team/) or [Al James](http://stphils.org.au/staff-team/).
 
 - Phone: [9874 1610](tel:98741610)
 - Email: [jason@stphils.org.au](mailto:jason@stphils.org.au) or [al@stphils.org.au](mailto:al@stphils.org.au)
@@ -123,4 +123,4 @@ As Christians, we believe that all humans have rejected God and have decided to 
 
 God, acting with love and grace, sent His son Jesus into the world to live the perfect life that we could not, and take the punishment for our sin by his death on the cross so that we can return into a relationship with Him.
 
-This gives us two choices. We can either continue living the way we were, in rejection of God, and face the consequences for our actions, or we can turn and commit our lives to Jesus so that we can return to an eternal relationship with God . [More information](http://www.matthiasmedia.com.au/2wtl/2wtlonline.html)
+This gives us two choices. We can either continue living the way we were, in rejection of God, and face the consequences for our actions, or we can turn and commit our lives to Jesus so that we can return to an eternal relationship with God . [More information](http://twowaystolive.com/)
