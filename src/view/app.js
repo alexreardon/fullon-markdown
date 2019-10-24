@@ -22,15 +22,17 @@ const global = `
         text-decoration: none;
     }
     h3 {
-        color: ${colors.secondary};
+        color: ${colors.text};
     }
     a {
-        color: ${colors.text}
+        color: ${colors.text};
     }
     /* responsive images */
     img {
         max-width: 100%;
         height: auto;
+        padding-top: ${gutters.large}px;
+        padding-bottom: ${gutters.large}px;
     }
     /* responsive tables */
     table {

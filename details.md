@@ -1,21 +1,23 @@
 ## Registrations
 
-[**Register online now!**](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
+### [Register online now!](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
 
-Registrations close on 23th December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
+Registrations close on 23rd December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing).
 
 ## About
 
 ### What is Full On?
 
 Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
-It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who
-Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and
-outdoors, in a loving community.
+It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and outdoors, in a loving community.
+
+This year the theme for camp is ‘Pioneers’. We will be exploring the book of Acts, and seeing how to the ends of the Earth – Jesus changes everything. In Acts we see Jesus change individual’s lives and change communities as a result of the changed mission of his followers – to bring his good news to the ends of the Earth.
+
+![Pioneers Painting](https://user-images.githubusercontent.com/48076776/67523224-f210fd00-f6f9-11e9-85e8-6abaad21b8de.jpg)
 
 ### When is it?
 
-Full On will take place on 20st - 25th January 2020.
+Full On will take place on 20th - 25th January 2020, the Monday-Saturday of the last week of the Summer school holidays.
 
 ## What will we do?
 
@@ -28,14 +30,13 @@ At camp you will experience the following Full On activities:
 - Massive-scale Night-time Wide Game
 - Swimming and Sports
 - Archery and Indoor Climbing
-- Day out at Cables Water Park!!
 - **Plus much, much more!**
 
 ### Where will camp be?
 
-![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67346325-1057eb00-f58a-11e9-9bf5-61dd6a923db6.jpg)
-
 The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/blue-gum-lodge), in the Blue Mountains.
+
+![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67451108-3903e180-f66b-11e9-9486-3843987c5cd7.jpg)
 
 ### Travelling to and from camp
 
@@ -56,6 +57,8 @@ Our third party booking system supports online payment using VISA, MasterCard an
 #### Need Assistance?
 
 We do not want to see money hinder you from coming, learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
+
+![Campers studying outside](https://user-images.githubusercontent.com/48076776/67524086-c5f67b80-f6fb-11e9-8eb0-819dff32e1da.jpg)
 
 ## What to bring?
 
@@ -92,7 +95,7 @@ We do not want to see money hinder you from coming, learning about Jesus and hav
 
 ### Other (optional)
 
-- Costume for the final night
+- Costume for the final night (pioneers themed!)
 
 ### Don't Bring
 
@@ -101,6 +104,8 @@ We do not want to see money hinder you from coming, learning about Jesus and hav
 - Matches and or lighters
 - Potential weapons (pocket knives, orange guns etc.)
 - Pets
+
+![Campers by the pool](https://user-images.githubusercontent.com/48076776/67524085-c55de500-f6fb-11e9-9255-070cfe2d5a06.jpg)
 
 ## Contact
 
@@ -114,6 +119,8 @@ For questions about camp and registrations contact [Jason Smith](http://stphils.
 ### During Camp
 
 Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our Full On leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
+
+![Campers playing dodgeball](https://user-images.githubusercontent.com/48076776/67524087-c5f67b80-f6fb-11e9-9d44-fc7e472f667d.jpg)
 
 ## Statement of Faith
 

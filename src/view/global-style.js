@@ -1,9 +1,8 @@
 import config from '../../config';
-import { inherits } from 'util';
 
 export const gutters = {
-    medium: 10,
-    large: 20,
+    medium: 8,
+    large: 16,
 };
 
 export const colors = {
@@ -17,7 +16,7 @@ export const button = {
     color: colors.text,
 };
 
-export const contentWidth = 980;
+export const contentWidth = 860;
 
 export const container = {
     maxWidth: contentWidth,

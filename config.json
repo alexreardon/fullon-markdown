@@ -2,7 +2,7 @@
   "trailerUrl": "https://vimeo.com/295723445",
   "colors": {
     "background": "#FFFFFF",
-    "secondary": "#000000",
+    "secondary": "#00FFFF",
     "text": "#000000",
     "action": "#FFF503"
   },
@@ -10,8 +10,9 @@
     "url": "https://fonts.googleapis.com/css?family=DM+Sans",
     "fontFamily": "'DM Sans', sans-serif"
   },
-  "facebook": {
-    "image": "https://static1.squarespace.com/static/56e6167262cd94987f77cdb2/t/578c73b5b8a79bbf14e3fd96/1468977118680/?format=2500w"
+  "social": {
+    "instagram": "StPhilsEastwoodYouth",
+    "facebook": "YouthAtEastwood"
   },
   "videos": [
     {

@@ -2,9 +2,11 @@ import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
 import Modal from 'react-modal';
-import logo from '../img/fullon-logo-header_1200x546.jpg';
+import headerImage from '../img/header-image_860x391.jpg';
+import logo from '../img/full-on-2020-logo.svg'
 import config from '../../config';
 import { button, gutters, contentWidth } from './global-style';
+import { relative } from 'path';
 
 const modalStyles = {
     content: {
@@ -33,10 +35,12 @@ const style = {
         backgroundSize: 'contain',
     },
     logo: {
+        position: 'relative',
         maxWidth: contentWidth,
         width: '100%',
         marginBottom: gutters.medium,
         marginTop: 0,
+        overflow: 'hidden'
     },
     button,
     closeModalButton: {
@@ -72,9 +76,28 @@ class Header extends Component {
 
         return (
             <div className={classes.container}>
-                <h1 className={classes.logo}>
-                    <img src={logo} alt='Full On 2020 Youth Camp'/>
-                </h1>
+                <div className={classes.logo}>
+                    <img
+                        src={headerImage} 
+                        alt='Full On 2020 Youth Camp'
+                        style={{
+                            filter: 'blur(3px)',
+                            paddingTop: '0px',
+                            paddingBottom: '0px',
+                            transform: 'scale(1.1)'
+                        }}
+                    />
+                    <img 
+                        src={logo} 
+                        style={{
+                            position: 'absolute',
+                            paddingTop: '0px',
+                            paddingBottom: '0px',
+                            top: '0px',
+                            left: '0px',
+                        }}
+                    />
+                </div>
                 <Modal
                     isOpen={isModalOpen}
                     onRequestClose={this.closeModal}
