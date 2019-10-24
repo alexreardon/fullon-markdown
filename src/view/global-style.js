@@ -1,8 +1,8 @@
 import config from '../../config';
 
 export const gutters = {
-    medium: 10,
-    large: 20,
+    medium: 8,
+    large: 16,
 };
 
 export const colors = {
