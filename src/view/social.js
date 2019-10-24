@@ -7,12 +7,18 @@ import { gutters } from './global-style';
 
 const style = {
   container: {
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      paddingTop: gutters.large * 4,
-      paddingBottom: gutters.large * 2,
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    paddingTop: gutters.large * 4,
+    paddingBottom: gutters.large * 2,
   },
+  socialLogo: {
+    height: '20px',
+    marginRight: gutters.medium,
+    verticalAlign: '-4px',
+    padding: '0px'
+  }
 };
 
 export default injectSheet(style)(({sheet: {classes}}) => (
@@ -21,11 +27,7 @@ export default injectSheet(style)(({sheet: {classes}}) => (
             <img 
                 src={instagram} 
                 alt="Instagram Logo"
-                style={{
-                    height: '20px',
-                    marginRight: gutters.medium,
-                    verticalAlign: '-4px'
-                }}
+                className={classes.socialLogo}
             />
             {config.social.instagram}
         </a>
@@ -33,11 +35,7 @@ export default injectSheet(style)(({sheet: {classes}}) => (
             <img 
                 src={facebook} 
                 alt="Facebook Logo"
-                style={{
-                    height: '20px',
-                    marginRight: gutters.medium,
-                    verticalAlign: '-4px'
-                }}
+                className={classes.socialLogo}
             />
             {config.social.facebook}
         </a>
