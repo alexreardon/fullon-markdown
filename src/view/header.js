@@ -82,13 +82,17 @@ class Header extends Component {
                         alt='Full On 2020 Youth Camp'
                         style={{
                             filter: 'blur(3px)',
-                            transform: 'scale(1.15)',
+                            paddingTop: '0px',
+                            paddingBottom: '0px',
+                            transform: 'scale(1.1)'
                         }}
                     />
                     <img 
                         src={logo} 
                         style={{
                             position: 'absolute',
+                            paddingTop: '0px',
+                            paddingBottom: '0px',
                             top: '0px',
                             left: '0px',
                         }}
