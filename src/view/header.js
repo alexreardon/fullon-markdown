@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import injectStyles from 'react-jss';
 import ReactPlayer from 'react-player';
 import Modal from 'react-modal';
-import logo from '../img/fullon-logo-header_1200x546.jpg';
+import headerImage from '../img/header-image_860x391.jpg';
+import logo from '../img/full-on-2020-logo.svg'
 import config from '../../config';
 import { button, gutters, contentWidth } from './global-style';
 
@@ -37,6 +38,7 @@ const style = {
         width: '100%',
         marginBottom: gutters.medium,
         marginTop: 0,
+        overflow: 'hidden'
     },
     button,
     closeModalButton: {
@@ -73,7 +75,21 @@ class Header extends Component {
         return (
             <div className={classes.container}>
                 <h1 className={classes.logo}>
-                    <img src={logo} alt='Full On 2020 Youth Camp'/>
+                    <img 
+                        src={logo} 
+                        style={{
+                            position: 'absolute',
+                            transform: 'scale(0.5)'
+                        }}
+                    />
+                    <img
+                        src={headerImage} 
+                        alt='Full On 2020 Youth Camp'
+                        style={{
+                            filter: 'blur(3px)',
+                            transform: 'scale(1.1)'
+                        }}
+                    />
                 </h1>
                 <Modal
                     isOpen={isModalOpen}
