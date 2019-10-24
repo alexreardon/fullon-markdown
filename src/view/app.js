@@ -22,10 +22,10 @@ const global = `
         text-decoration: none;
     }
     h3 {
-        color: ${colors.secondary};
+        color: ${colors.text};
     }
     a {
-        color: ${colors.text}
+        color: ${colors.text};
     }
     /* responsive images */
     img {
