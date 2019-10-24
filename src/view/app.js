@@ -31,6 +31,8 @@ const global = `
     img {
         max-width: 100%;
         height: auto;
+        padding-top: ${gutters.large}px;
+        padding-bottom: ${gutters.large}px;
     }
     /* responsive tables */
     table {

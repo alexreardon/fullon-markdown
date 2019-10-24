@@ -34,9 +34,9 @@ At camp you will experience the following Full On activities:
 
 ### Where will camp be?
 
-![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67346325-1057eb00-f58a-11e9-9bf5-61dd6a923db6.jpg)
-
 The picturesque [Blue Gum Lodge at Springwood](http://www.youthworkscentres.net/blue-gum-lodge), in the Blue Mountains.
+
+![Blue Gum Lodge Common Area](https://user-images.githubusercontent.com/48076776/67451108-3903e180-f66b-11e9-9486-3843987c5cd7.jpg)
 
 ### Travelling to and from camp
 
@@ -57,6 +57,8 @@ Our third party booking system supports online payment using VISA, MasterCard an
 #### Need Assistance?
 
 We do not want to see money hinder you from coming, learning about Jesus and having a great time. Subsidies and financial assistance are available to those who are unable to meet the full cost of the camp. If this is you send an email to [Al James](mailto:al@stphils.org.au), which indicates the amount you are able to pay, and subsidies will be organised.
+
+![Campers studying outside](https://user-images.githubusercontent.com/48076776/67524086-c5f67b80-f6fb-11e9-8eb0-819dff32e1da.jpg)
 
 ## What to bring?
 
@@ -103,6 +105,8 @@ We do not want to see money hinder you from coming, learning about Jesus and hav
 - Potential weapons (pocket knives, orange guns etc.)
 - Pets
 
+![Campers by the pool](https://user-images.githubusercontent.com/48076776/67524085-c55de500-f6fb-11e9-9255-070cfe2d5a06.jpg)
+
 ## Contact
 
 ### Before Camp
@@ -115,6 +119,8 @@ For questions about camp and registrations contact [Jason Smith](http://en.stphi
 ### During Camp
 
 Leaders will have phones and there is a public phone at camp so campers can contact home if needed.  Phone numbers for our Full On leadership team will be made available to all camper parents - so in case of emergency you can get in contact with your children.
+
+![Campers playing dodgeball](https://user-images.githubusercontent.com/48076776/67524087-c5f67b80-f6fb-11e9-9d44-fc7e472f667d.jpg)
 
 ## Statement of Faith
 
