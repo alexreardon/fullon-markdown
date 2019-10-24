@@ -1,6 +1,6 @@
 ## Registrations
 
-[**Register online now!**](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
+### [Register online now!](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
 
 Registrations close on 23rd December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
 

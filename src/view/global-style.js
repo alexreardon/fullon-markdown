@@ -1,5 +1,4 @@
 import config from '../../config';
-import { inherits } from 'util';
 
 export const gutters = {
     medium: 10,
