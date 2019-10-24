@@ -2,22 +2,20 @@
 
 ### [Register online now!](https://stphilseastwood.elvanto.com.au/form/83c70ff0-11e2-496a-999e-4d38cb120911)
 
-Registrations close on 23rd December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing)
+Registrations close on 23rd December and early bird discount closes on 30th November. For more information about cost and payment methods, see [Pricing](/#pricing).
 
 ## About
 
 ### What is Full On?
 
 Full On is a [St Philip’s Eastwood Anglican Church](http://en.stphils.org.au/) summer youth camp.
-It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who
-Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and
-outdoors, in a loving community.
+It is for youth who will be in Year 6-12 in 2020 and graduating Year 12s of 2019. Full On is a Christian camp where the students will learn from the Bible about who Jesus is, what he has done, and what it means to follow him. It is also a week of full on fun and activities, indoor and outdoors, in a loving community.
 
 This year the theme for camp is ‘Pioneers’. We will be exploring the book of Acts, and seeing how to the ends of the Earth – Jesus changes everything. In Acts we see Jesus change individual’s lives and change communities as a result of the changed mission of his followers – to bring his good news to the ends of the Earth.
 
 ### When is it?
 
-Full On will take place on 20th - 25th January 2020, the Monday-Saturday of the last week of the Summer school holidays
+Full On will take place on 20th - 25th January 2020, the Monday-Saturday of the last week of the Summer school holidays.
 
 ## What will we do?
 
