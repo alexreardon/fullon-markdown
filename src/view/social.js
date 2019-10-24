@@ -1,5 +1,6 @@
 import React from 'react';
 import injectSheet from 'react-jss';
+import config from '../../config';
 import instagram from '../img/instagram.svg';
 import facebook from '../img/facebook.svg';
 import { gutters } from './global-style';
@@ -16,7 +17,7 @@ const style = {
 
 export default injectSheet(style)(({sheet: {classes}}) => (
     <div className={classes.container}>
-        <a href="https://instagram.com/stphilseastwoodyouth">
+        <a href={`https://instagram.com/${config.social.instagram}`}>
             <img 
                 src={instagram} 
                 alt="Instagram Logo"
@@ -26,9 +27,9 @@ export default injectSheet(style)(({sheet: {classes}}) => (
                     verticalAlign: '-4px'
                 }}
             />
-            StPhilsEastwoodYouth
+            {config.social.instagram}
         </a>
-        <a href="https://facebook.com/youthateastwood" style={{marginTop: gutters.medium}}>
+        <a href={`https://facebook.com/${config.social.facebook}`} style={{marginTop: gutters.medium}}>
             <img 
                 src={facebook} 
                 alt="Facebook Logo"
@@ -38,7 +39,7 @@ export default injectSheet(style)(({sheet: {classes}}) => (
                     verticalAlign: '-4px'
                 }}
             />
-            YouthAtEastwood
+            {config.social.facebook}
         </a>
     </div>
 ));

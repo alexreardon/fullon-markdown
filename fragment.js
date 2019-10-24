@@ -10,7 +10,6 @@ module.exports = () => `
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Full on</title>
     <link href="${config.font.url}" rel="stylesheet">
-    <meta property="og:image" content="${config.facebook.image}">
 </head>
 <body>
 <div id="app"></div>
