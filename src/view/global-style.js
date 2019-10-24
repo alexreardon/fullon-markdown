@@ -16,7 +16,7 @@ export const button = {
     color: colors.text,
 };
 
-export const contentWidth = 980;
+export const contentWidth = 860;
 
 export const container = {
     maxWidth: contentWidth,
