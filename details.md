@@ -124,7 +124,7 @@ Leaders will have phones and there is a public phone at camp so campers can cont
 
 ## Statement of Faith
 
-Interested in our theology? We are! Feel free to contact us if you have any concerns or questions.
+What do we believe? Feel free to contact us if you have any concerns or questions.
 
 As Christians, we believe that all humans have rejected God and have decided to live our own way. The result is that we end up in eternal exile from God, with nothing we can do about it.
 
