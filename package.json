@@ -52,7 +52,7 @@
     "core-js": "2.4.1",
     "express": "4.17.1",
     "markdown-it": "8.0.0",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "normalize.css": "5.0.0",
     "react": "15.3.2",
     "react-burger-menu": "1.10.8",
